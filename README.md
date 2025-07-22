@@ -112,3 +112,10 @@ npm run dev
 # 7. Akses aplikasi
 # Buka browser dan kunjungi:
 http://localhost:8000
+
+
+---
+
+## User: shela
+email: shela@gmail.com
+pass: 12345678
