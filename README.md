@@ -1,7 +1,6 @@
 # 🔧 Manajemen Data Bengkel Menggunakan Laravel + Filament
 
-Aplikasi ini dirancang untuk mengelola data bengkel secara terintegrasi dan efisien menggunakan framework **Laravel 12** dan panel admin **Filament v3**. Proyek ini juga dilengkapi dengan Docker untuk memastikan environment pengembangan yang stabil dan konsisten.
-
+Aplikasi ini dirancang untuk mengelola data bengkel secara terintegrasi dan efisien menggunakan framework **Laravel 12** dan panel admin **Filament v3**.
 ---
 
 ## ✨ Fitur Utama
